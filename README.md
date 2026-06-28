@@ -1,4 +1,4 @@
-# curve2bezier
+# Curve2Bezier
 
 > **Adaptive Vectorization via Piecewise Cubic Bézier Curves:
 > A Topology-Aware Curve Approximation Framework**
